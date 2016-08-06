@@ -16,8 +16,8 @@
     ],
     "aws": {
       "buckets": [
-        "dev.michael-iriarte.com",
-        "michael-iriarte.com"
+        "ADD YOUR STAGING BUCKET NAME",
+        "ADD YOUR PRODUCTION BUCKET NAME"
       ],
       "s3": {
         "region": "us-west-2",
