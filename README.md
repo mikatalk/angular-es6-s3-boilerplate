@@ -15,7 +15,7 @@ Create a file `aws.private.json` containing you AWS credentials. For example:
 `{
 "accessKeyId": "ABCDEFGHIJKL",
 "secretAccessKey": "abcd12345efghjkl+yolo"
-}
-`
+}`
+
 Then run:
 `npm run release`
